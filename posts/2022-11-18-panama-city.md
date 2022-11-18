@@ -34,3 +34,4 @@ Nun aber zum eigentlichen Thema:
 - Lauf am Panama Kanal: feuchtwarmes Klima, anstrengend
 
 {% image "./img/panama-city/221020_blick_vom_selina_hostel_rooftop_auf_die_panama_skyline.jpg", "Skyline von Panama-City vom Selina Hostel Rooftop aus", "(min-width: 30em) 50vw, 100vw" %}
+{% image "./img/panama-city/221021_almuerzo_con_los_taxistas.jpg", "Almuerzo con los Taxistas", "(min-width: 30em) 50vw, 100vw" %}
