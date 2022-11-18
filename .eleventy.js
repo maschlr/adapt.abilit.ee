@@ -31,6 +31,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
+  // Copy CNAME to keep domain on re-deploy
+  eleventyConfig.addPassthroughCopy("CNAME");
+
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
