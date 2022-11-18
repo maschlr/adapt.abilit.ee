@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Build
-        uses: TartanLlama/actions-eleventy@master
+        uses:  maschlr/actions-eleventy@master 
         with:
           install_dependencies: true
       - name: Deploy
