@@ -12,7 +12,8 @@ const Image = require("@11ty/eleventy-img");
 async function imageShortcode(src, alt, sizes) {
   let metadata = await Image(src, {
     widths: [300, 600],
-    formats: ["png"]
+    formats: ["png"],
+    outputDir: "./_site/img/" 
   });
 
   let imageAttributes = {
@@ -23,9 +24,7 @@ async function imageShortcode(src, alt, sizes) {
   };
 
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-  return Image.generateHTML(metadata, imageAttributes, {
-    outputDir: "./_site/img/" 
-  });
+  return Image.generateHTML(metadata, imageAttributes);
 }
 
 module.exports = function(eleventyConfig) {
