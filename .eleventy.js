@@ -23,16 +23,19 @@ async function imageShortcode(src, alt, sizes) {
   };
 
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-  return Image.generateHTML(metadata, imageAttributes);
+  return Image.generateHTML(metadata, imageAttributes, {
+    outputDir: "./_site/img/" 
+  });
 }
 
 module.exports = function(eleventyConfig) {
   // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("img");
+  // we don't need this since we're writing the compiled images directly into the output dir
+  // eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
   // Copy CNAME to keep domain on re-deploy
-  eleventyConfig.addPassthroughCopy("CNAME");
+  //eleventyConfig.addPassthroughCopy("CNAME");
 
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
