@@ -20,7 +20,7 @@ jobs:
       - name: run build
         run: npm run build   
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact
+        uses: actions/upload-pages-artifact@main
   # Deploy job
   deploy:
     # Add a dependency to the build job
