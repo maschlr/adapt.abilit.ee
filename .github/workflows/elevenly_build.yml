@@ -9,10 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - name: Build
-        uses:  maschlr/actions-eleventy@master 
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          install_dependencies: true
+          node-version: '18'
+      - name: Install NPM packages
+        run: npm -i    
+      - name: run build
+        run: npm run build   
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
