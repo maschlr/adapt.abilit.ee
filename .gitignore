@@ -1,3 +1,7 @@
 _site/
 node_modules/
 package-lock.json
+
+# images built by 11ly-img plugin
+img/*.jpeg
+img/*.avif
