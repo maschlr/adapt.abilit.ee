@@ -34,4 +34,4 @@ Daher möchte ich auch für diesen Blog konkret werden:
 
 Also dann: vielen Dank für deine Aufmerksamtkeit und gute Unterhaltung auf dem Rest der Seite!
 
-{% image "./img/hallo-welt/bear-grills.jpg", "Bear Grills der Motivationstrainer", "(min-width: 30em) 50vw, 100vw" %}
+{% image "./img/hallo-welt/bear-grills\.jpeg", "Bear Grills der Motivationstrainer", "(min-width: 30em) 50vw, 100vw" %}
