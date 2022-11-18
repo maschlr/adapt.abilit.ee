@@ -1,21 +1,21 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Abilitee to Adapt",
+  "url": "https://adapt.abilit.ee/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Persönlicher Blog übers Reisen, Technologie und Philosophie",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Persönlicher Blog übers Reisen, Technologie und Philosophie",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://adapt.abilit.ee/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://adapt.abilit.ee/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Marten Schlüter",
+    "email": "hi.marten@pm.me",
+    "url": "https://adapt.abilit.ee/about-me/"
   }
 }
