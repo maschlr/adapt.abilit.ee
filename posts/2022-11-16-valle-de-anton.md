@@ -29,6 +29,6 @@ Die pralle Mittagssonne sollte man hier auf jeden Fall auch vermeiden. Manche de
 Am besten fragt man vor Ort nach tagesaktuellen Details.
 Einmal oben auf einem der Gipfel angekommen hat man bei schönen Wetter eine atemberaubende Aussicht. Das hügelige Umland ist von satter tropischer Vegetation gesäumt.
 
-{% image "./img/valle-de-anton/cerro-cara-iguana.jpeg", "Wir genießen den Sonnenausgang aus einer Wolke auf dem Cerro Cara Iguana", "(min-width: 30em) 50vw, 100vw" %}
+{% image "./img/valle-de-anton/cerro-cara-iguana.jpeg", "Wir genießen den Sonnenaufgang aus einer Wolke auf dem Cerro Cara Iguana", "(min-width: 30em) 50vw, 100vw" %}
 
 Insgesamt würde ich jedem Panama-Reisenden empfehlen einen Zwischenstop im Valle einzulegen. Nicht weit entfernt von der Hauptstadt und gut mit öffentlichen Verkehrsmitteln erreichbar (ca. 2,5h mit direkter Verbindung vom Albrook Terminal). Das Bodhi Hostel ist eine preiswerte Übernachtungsoption mit vielen jungen und aktiven Menschen, täglichen Aktivitäten, schönem Konzept, freundlichem Personal und sauberen Zimmern.

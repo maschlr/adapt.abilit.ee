@@ -9,7 +9,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const Image = require("@11ty/eleventy-img");
 
-async function imageShortcode(src, alt, sizes) {
+async function imageShortcode(src, alt, sizes, caption="") {
   let metadata = await Image(src, {
     widths: [300, 600],
     formats: ["png"],
@@ -24,7 +24,17 @@ async function imageShortcode(src, alt, sizes) {
   };
 
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-  return Image.generateHTML(metadata, imageAttributes);
+  const imageEl = Image.generateHTML(metadata, imageAttributes);
+
+  if (!caption) {
+    caption = alt;
+  } 
+
+  const markup = ["<figure>"]
+  markup.push(imageEl)
+  markup.push(`<figcaption>${caption}</figcaption>`)
+  markup.push("</figure>")
+  return markup.join("\n")
 }
 
 module.exports = function(eleventyConfig) {
