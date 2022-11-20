@@ -6,6 +6,7 @@ templateClass: tmpl-post
 eleventyNavigation:
   key: About Me
   order: 3
+date: 2022-11-13
 ---
 
 Hallo und herzlich willkommen,
@@ -15,8 +16,8 @@ mein Name ist Marten. Ich habe 1986 zum ersten Mal das Licht der Welt gesehen. D
 Studiert habe ich eigentlich mal Energiesystemtechnik, bin also "klassischer" Ingenieur.
 Gearbeitet habe ich in diesem Beruf auch eher klassisch, d.h. in unterschiedlichen (Ingenieur-)Büros und Industriebetrieben.
 Zuletzt habe ich in diesem Beruf dann freiberuflich Aufträge bearbeitet. Dadurch konnte ich das Reisen und Arbeiten schon etwas mehr verbinden als im Anstellungsverhältnis.
-Ich hatte allerdings immer den Eindruck noch in der Welt der Vergangenheit zu arbeiten, während um mich herum die Zukunft zu entstehen schien.
-Daher habe ich dann 2021/2022 begonnen dem klassichen Ingenieurwesen komplett den Rücken zuzukehren und mich auf andere Dinge konzentriert.
+Ich hatte allerdings immernoch den Eindruck in der Vergangenheit zu arbeiten, während um mich herum die Zukunft zu entstehen schien.
+Daher habe ich dann 2021/2022 althergrachten Ingenieurbüros und Industriebetrieben (dem "klassichen" Ingenieurwesen) den Rücken zuzukehren und mich auf andere, digitalere Dinge konzentriert.
 
 Ich hatte schon immer eine Leidenschaft für Computer. Meinen ersten 286er schenkte mir mein Vater schon in der Grundschule.
 Darauf lief damal DOS, die Bedienung erfolgte über die Kommandozeile und man konnte die atemberaubende Grafik von Spielen wie Lemmings bewundern.
