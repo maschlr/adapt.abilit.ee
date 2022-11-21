@@ -65,17 +65,22 @@ Den Busfahrer interessierte das Gehandhabe mit der Karte wenig. Pro Person koste
 Wie üblich fühlte sich das Innere des Busses wie ein Kühlschrank an - ein krasser Kontrast zu dem Klima an der frischen Luft.
 Wir fuhren zwei Stationen bis zur nächsten Metro Station und machten uns dort daran eine eigene Metro Karte zu kaufen und dem anderen Fahrtgast die von Ihm ausgelegten Fahrtkosten zurückzuzahlen.
 Wir wollten den beiden 4$ geben, da sie uns eine viel teuerere Taxifahrt erspart hatte. Das lehnte er ab, er nahm am Ende 1$, was die 2,5-fache Fahrkosten darstellte.
+Was ich in dieser Begegnung wahrgenommen habe ist Offenheit, Hilfsbereitschaft, Ehrlichkeit in Verbindung mit etwas Schüchternheit.
+In Gesprächen über Südamerika kommt häufig das Thema Sicherheit auf. Diese Begegnung war eine sehr schöne Erfahrung. Instesamet glaube ich nicht, dass der Anteil von Menschen die Schlechtes im Sinn haben irgendwo in der Welt groß unterschiedlich ist.
+Die meisten Menschen möchten einfach nur in Frieden leben und dabei Zeit mit geliebten Menschen und Aktivitäten verbringen.
+Mit der Metro mussten wir einmal komplett quer durch die Stadt. Unsere Unterkunft für die ersten drei Tage war das [Selina Hostel](https://www.selina.com/panama/casco-viejo-panama-city/) im historischen Stadtteil Casco Viejo ("Altes Viertel").
+Wir fuhren bis zur nächstgelegenen Metro-Station _Estación 5 de Mayo_ und legten das letzte Stück zu Fuß zurück.
+Zwar war ich noch nie in Panama City, jedoch wurden auch hier wieder Erinnerungen an andere Erlebnisse in Lateinamerika wach: das quirlige Treiben, die Musik, fliegende Händler, der Verkehr: das alles kam mir nicht unvertraut vor.
+Im Hostel schließlich angekommen bezogen Lorena und ich unser Zimmer und waren schnell ins Land der Träume verschwunden. In der Zwischenzeit war es in Panam 22 Uhr und damit bereits 5 Uhr nachts in Mitteleuropa, wo wir am Tag zuvor losgeflogen waren.
 
-- am Flughafen kreisen die Taxifahrer wie Geier um uns; handeln sich schnell selbst von 35$ auf 20$ herunter; wir nehmen die öffentlichen Verkehrsmittel; einer der Taxifahrer vermittelt uns mit einem Inhaber einer Guthabenkarte für die Busfahrt
-- Das Klima in Panama City erinnern mich direkt an meine Zeit in Peru: schwül, etwas drückend, überall hängt ein leicht-modriger Geruch in der Luft
-- Das Selina  Hostelin Casco Viejo  ist achön hergerichtet, gutes Geschäfts- /Marketingkonzept, großes Invest
-- Unser Zimmer ist direkt an der Straße gegenüber einer Diskothek; wir fallen erschöpft um ~5 Uhr CET ins Bett
-- Um 4 Uhr panamaischer Zeit ist die Nacht für mich vorbei; in der Bibliothek treffe ich Trevor: in den Bahamas geboren, lebt er nun in Florida und arbeitet als Fixer; löst komplexe Probleme für seine Auftraggeber.
-- Ansonsten etwas komische Vibes von den anderen Gästen; keine Reaktion auf Begrüßung meinerseits ("hi"):  ältere Dame in der Bibliothek, asiatischer Gast, der früh auscheckt
-- Taxifahrer wie Geier am Flughafen; Vermittlung an andere wartende Busgäste, die die Karte besitzen
-- Billige Metro
-- Ankunft erinnert mich an meine Zeit in Peru: Laute Musik (Reggaeton, Cumbia), lauter Verkehr, Laute Mentalität, Schmutz, feuchtwarmes Klima
-- Selina Hostel: touristisch, schönes Design-Konzept
+## Panama City
+
+Das Selina Hostel fühlt sich schon eher wie ein Hotel mit rundem, jungem Design. Hier wurde Geld in die Hand genommen und ein insgesamt schlüssiges Konzept erstellt.
+Unser Zimmer war an sich schön, allerdings direkt an der Straße. Auf der anderen Straßenseite befand sich direkt eine Diskothek, die jede Nacht bis um 3 Uhr laut die Straße mit Cumbia und Reggaeton bespielte.
+In Lateinamerika scheinen die Menschen insgesamt ein anderes Verständnis von Lautstärke bzw. Ruhestörung zu haben. Zu der Musik von der Diskothek kamen noch die vielen Taxis, die entweder fette Bässe im Auto verbaut hatten oder um Gäste hupend durch die Straße fuhren oder beides.
+Durch den Jetlag wachte ich die erste Zeit in Panam früh auf und so trieb es mich um 3 Uhr nachts in die Bibliothek des Selina Hostel.
+Dort treffe ich Trevor, der gerade aus der Bibel ließt. Er sei auf den Bahamas geboren, lebe aber nun in Florida und arbeitet als Fixer: er löst komplexe Probleme für seine Auftraggeber. Ich denke mir: ein bisschen wie ich, nur dass ich das digital mache.
+Ansonsten kommt mir das Hostel eher unpersönlich vor: die anderen Gäste, denen ich tagsüber begegnete schienen eher wenig offen bzw. kontaktfreudig. Auf ein "hi" erältere Dame in der Bibliothek, asiatischer Gast, der früh auscheckt- 
 - überzogene Preise für vegan,gluten-free in Casco Viejo
 - Lauf am Panama Kanal: feuchtwarmes Klima, anstrengend
 
