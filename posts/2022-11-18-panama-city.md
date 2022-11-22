@@ -15,7 +15,7 @@ departure: 2022-11-05
 {% callout %}
 Da ich meinen Blog begonnen habe, als ich schon auf der Reise war, schreibe ich über diese Station etwas verspätet. Die Reihenfolge der Posts stimmt also nicht mit der Reisereihenfolge überein.
 Daten habe ich mir natürlich alle notiert und wie ich schon in meinem <a href="{{ '/posts/2022-11-13-hallo-welt/' | url }}">Intro</a> erwähnt hatte, plane ich auch später Karten mit einzubinden.
-{% callout %}
+{% endcallout %}
 
 ## Flashback
 
@@ -81,6 +81,11 @@ In Lateinamerika scheinen die Menschen insgesamt ein anderes Verständnis von La
 Durch den Jetlag wachte ich die erste Zeit in Panam früh auf und so trieb es mich um 3 Uhr nachts in die Bibliothek des Selina Hostel.
 Dort treffe ich Trevor, der gerade aus der Bibel ließt. Er sei auf den Bahamas geboren, lebe aber nun in Florida und arbeitet als Fixer: er löst komplexe Probleme für seine Auftraggeber. Ich denke mir: ein bisschen wie ich, nur dass ich das digital mache.
 Ansonsten kommt mir das Hostel eher unpersönlich vor: die anderen Gäste, denen ich tagsüber begegnete schienen eher wenig offen bzw. kontaktfreudig. Auf ein "hi" erhielt ich von einer älteren Dame in der Bibliothek und einem anderen asiatischer Gast, in der frühen Stunde garkeine Reaktion. Naja, nicht jeder Mensch ist ein Morgenmensch.
+
+Die nächsten zwei Tage verbringen Lorena und ich damit in Panama City anzukommen. Die Eindrücke sind immernoch sehr frisch. Das Casco Viejo hat einen schönen klassichen Kern mit Bauten im Kolonianstil. Vieles wird bzw. wurde renoviert, an anderer Stelle verfallen die Gebäude. Wie auch das Land und der Rest der Stadt scheint das Viertel voller Kontraste zu sein. Beim Anblick der verfallenden Gebäude wird mir schnell klar: wenn in unserer Gesellschaft mehr oder weniger panisch vom Klimawnadel und der Erderwärmung gesprochen wird, hat die Natur damit kein Problem. Die Natur passt sich an und erobert unnachgiebig alles wieder zurück. An tropischen Orten wie Panama wird einem das besonders klar: schon nach kürzester Zeit beginnen weiß gestrichene Mauern zu modern und zu verfallen. Im letzten Riss sprießen Pflanzen, die in kürzester Zeit zu Büschen und Bäumen heranwachsen.
+Jeder Fleck wird umgehend besiedelt.
+
+Im alten Zentrum des Casco Viejo hat man sich auf Tourismus eingestellt. Es gibt ein Museum, das über die Geschichte erzählt. In den Straßen sind Bistros und Cafes, die mit schön dekorierten Fruit-Bowls und anderen vegan-glutenfreien Speisen gutsituierte, meist westliche Gäste anlocken. Ich gehe lieber gegenüber in ein Restaurant ohne Schild auf der Straße, das auch die lokalen Taxifahrer für ihre Pausen nutzen.
 
 {% image "./img/panama-city/221020_blick_vom_selina_hostel_rooftop_auf_die_panama_skyline.jpg", "Skyline von Panama-City vom Selina Hostel Rooftop aus", "(min-width: 30em) 50vw, 100vw" %}
 
