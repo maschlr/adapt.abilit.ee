@@ -9,7 +9,7 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const Image = require("@11ty/eleventy-img");
 
-async function imageShortcode(src, alt, sizes, caption="") {
+async function imageShortcode(src, alt, sizes, caption=null) {
   let metadata = await Image(src, {
     widths: [300, 600],
     formats: ["png"],
