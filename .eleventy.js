@@ -10,6 +10,10 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const pluginMarkdown = require("./config/markdownPlugin.js");
 const Image = require("@11ty/eleventy-img");
 
+async function stravaShortcode(activityId) {
+  return `<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="${activityId}"></div>`
+}
+
 async function imageShortcode(src, alt, sizes, caption=null) {
   let metadata = await Image(src, {
     widths: [300, 600],
@@ -132,6 +136,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
   eleventyConfig.addLiquidShortcode("image", imageShortcode);
   eleventyConfig.addJavaScriptFunction("image", imageShortcode);
+
+  eleventyConfig.addNunjucksAsyncShortcode("strava", stravaShortcode);
+  eleventyConfig.addLiquidShortcode("strava", stravaShortcode);
+  eleventyConfig.addJavaScriptFunction("strava", stravaShortcode);
 
   return {
     // Control which files Eleventy will process
