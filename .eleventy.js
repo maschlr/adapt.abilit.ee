@@ -11,7 +11,7 @@ const pluginMarkdown = require("./config/markdownPlugin.js");
 const Image = require("@11ty/eleventy-img");
 
 async function stravaShortcode(activityId) {
-  return `<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="${activityId}"></div>`
+  return `<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="${activityId}"></div><script src="https://strava-embeds.com/embed.js"></script>`
 }
 
 async function imageShortcode(src, alt, sizes, caption=null) {
