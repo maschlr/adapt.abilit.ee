@@ -20,7 +20,7 @@ Daten habe ich mir natürlich alle notiert und wie ich schon in meinem <a href="
 ## Flashback
 
 Nun aber zum eigentlichen Thema:
-Mein Blick aus dem kleinen Bullauge des Flugzeugs schweifte über das dunkle, dichte Grün als wir die Karabikküste von Panam überflogen. Der Dschungel schien mich zu begrüßen.
+Mein Blick aus dem kleinen Bullauge des Flugzeugs schweifte über das dunkle, dichte Grün als wir die Karabikküste von Panama überflogen. Der Dschungel schien mich zu begrüßen.
 Ein Gefühl von Vorfreude erfüllt mich und ich bekome leichte Gänsehaut.
 Das schmale Land ist Rasch überflogen und nach einer kurzen Schleife über die Pazifikküste setzen wir zum Landeanflug auf International Airport an.
 Beim Verlassen der Brücke, die das Flugzeug mit dem Flughafenterminal verbindet, kommt mir eine Wand feuchttropischer Luft entgegegen.
@@ -71,14 +71,14 @@ Die meisten Menschen möchten einfach nur in Frieden leben und dabei Zeit mit ge
 Mit der Metro mussten wir einmal komplett quer durch die Stadt. Unsere Unterkunft für die ersten drei Tage war das [Selina Hostel](https://www.selina.com/panama/casco-viejo-panama-city/) im historischen Stadtteil Casco Viejo ("Altes Viertel").
 Wir fuhren bis zur nächstgelegenen Metro-Station _Estación 5 de Mayo_ und legten das letzte Stück zu Fuß zurück.
 Zwar war ich noch nie in Panama City, jedoch wurden auch hier wieder Erinnerungen an andere Erlebnisse in Lateinamerika wach: das quirlige Treiben, die Musik, fliegende Händler, der Verkehr: das alles kam mir nicht unvertraut vor.
-Im Hostel schließlich angekommen bezogen Lorena und ich unser Zimmer und waren schnell ins Land der Träume verschwunden. In der Zwischenzeit war es in Panam 22 Uhr und damit bereits 5 Uhr nachts in Mitteleuropa, wo wir am Tag zuvor losgeflogen waren.
+Im Hostel schließlich angekommen bezogen Lorena und ich unser Zimmer und waren schnell ins Land der Träume verschwunden. In der Zwischenzeit war es in Panama 22 Uhr und damit bereits 5 Uhr nachts in Mitteleuropa, wo wir am Tag zuvor losgeflogen waren.
 
 ## Panama City
 
 Das Selina Hostel fühlt sich schon eher wie ein Hotel mit rundem, jungem Design. Hier wurde Geld in die Hand genommen und ein insgesamt schlüssiges Konzept erstellt.
 Unser Zimmer war an sich schön, allerdings direkt an der Straße. Auf der anderen Straßenseite befand sich direkt eine Diskothek, die jede Nacht bis um 3 Uhr laut die Straße mit Cumbia und Reggaeton bespielte.
 In Lateinamerika scheinen die Menschen insgesamt ein anderes Verständnis von Lautstärke bzw. Ruhestörung zu haben. Zu der Musik von der Diskothek kamen noch die vielen Taxis, die entweder fette Bässe im Auto verbaut hatten oder um Gäste hupend durch die Straße fuhren oder beides.
-Durch den Jetlag wachte ich die erste Zeit in Panam früh auf und so trieb es mich um 3 Uhr nachts in die Bibliothek des Selina Hostel.
+Durch den Jetlag wachte ich die erste Zeit in Panama früh auf und so trieb es mich um 3 Uhr nachts in die Bibliothek des Selina Hostel.
 Dort treffe ich Trevor, der gerade aus der Bibel ließt. Er sei auf den Bahamas geboren, lebe aber nun in Florida und arbeitet als Fixer: er löst komplexe Probleme für seine Auftraggeber. Ich denke mir: ein bisschen wie ich, nur dass ich das digital mache.
 Ansonsten kommt mir das Hostel eher unpersönlich vor: die anderen Gäste, denen ich tagsüber begegnete schienen eher wenig offen bzw. kontaktfreudig. Auf ein "hi" erhielt ich von einer älteren Dame in der Bibliothek und einem anderen asiatischer Gast, in der frühen Stunde garkeine Reaktion. Naja, nicht jeder Mensch ist ein Morgenmensch.
 
