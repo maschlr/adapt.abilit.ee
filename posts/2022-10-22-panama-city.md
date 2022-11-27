@@ -2,7 +2,7 @@
 title:  "Ankunft in einer neuen Welt: Panama City"
 description: "Bericht über die ersten Stationen auf unserer Lateinamerika-Reise: Panama City und Veracruz"
 location: Panama City, Panama
-date:   2022-11-18
+date: 2022-10-22
 layout: layouts/post.njk
 tags: 
  - de 
@@ -12,11 +12,6 @@ tags:
 arrival: 2022-10-19
 departure: 2022-10-22
 ---
-{% callout %}
-Da ich meinen Blog begonnen habe, als ich schon auf der Reise war, schreibe ich über diese Station etwas verspätet. Die Reihenfolge der Posts stimmt also nicht mit der Reisereihenfolge überein.
-Daten habe ich mir natürlich alle notiert und wie ich schon in meinem <a href="{{ '/posts/2022-11-13-hallo-welt/' | url }}">Intro</a> erwähnt hatte, plane ich auch später Karten mit einzubinden.
-{% endcallout %}
-
 ## Flashback
 
 Nun aber zum eigentlichen Thema:
