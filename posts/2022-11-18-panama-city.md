@@ -10,7 +10,7 @@ tags:
  - zentralamerika 
  - panama
 arrival: 2022-10-19
-departure: 2022-11-05
+departure: 2022-10-22
 ---
 {% callout %}
 Da ich meinen Blog begonnen habe, als ich schon auf der Reise war, schreibe ich über diese Station etwas verspätet. Die Reihenfolge der Posts stimmt also nicht mit der Reisereihenfolge überein.
