@@ -48,6 +48,11 @@ module.exports = function(eleventyConfig) {
   // eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
+  eleventyConfig.addPassthroughCopy({
+    "node_modules/lite-youtube-embed/src/lite-yt-embed.js": `js/lite-yt-embed.js`,
+    "node_modules/lite-youtube-embed/src/lite-yt-embed.css": "css/lite-yt-embed.css"
+  })
+
   // Copy CNAME to keep domain on re-deploy
   //eleventyConfig.addPassthroughCopy("CNAME");
 
@@ -140,6 +145,26 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addNunjucksAsyncShortcode("strava", stravaShortcode);
   eleventyConfig.addLiquidShortcode("strava", stravaShortcode);
   eleventyConfig.addJavaScriptFunction("strava", stravaShortcode);
+
+	eleventyConfig.addShortcode("youtubeEmbed", function(slug, label, startTime) {
+		let readableStartTime = "";
+		if(startTime) {
+			let t = parseInt(startTime, 10);
+			let minutes = Math.floor(t / 60);
+			let seconds = t % 60;
+			readableStartTime = `${minutes}m${seconds}s`;
+		}
+		let fallback = `https://i.ytimg.com/vi/${slug}/maxresdefault.jpg`;
+
+		// hard-coded fallback
+		if(slug === "pPkWxn0TF9w") {
+			fallback = `https://img.youtube.com/vi/${slug}/hqdefault.jpg`;
+		}
+
+		return `<div><is-land on:visible import="/js/lite-yt-embed.js" class="fluid"><lite-youtube videoid="${slug}"${startTime ? ` params="start=${startTime}"` : ""} playlabel="Play${label ? `: ${label}` : ""}" style="background-image:url('${fallback}')">
+	<a href="https://youtube.com/watch?v=${slug}" class="elv-externalexempt lty-playbtn" title="Play Video"><span class="lyt-visually-hidden">Play Video${label ? `: ${label}` : ""}</span></a>
+</lite-youtube><a href="https://youtube.com/watch?v=${slug}${startTime ? `&t=${startTime}` : ""}">${label || "Watch on YouTube"}${readableStartTime ? ` <code>▶${readableStartTime}</code>` : ""}</a></is-land></div>`;
+	});
 
   return {
     // Control which files Eleventy will process
