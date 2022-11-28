@@ -115,6 +115,16 @@ pre {
 code {
   word-break: break-all;
 }
+figure {
+  display: table;
+}
+figure img {
+  display: block;
+}
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
 
 /* Header */
 .home {
