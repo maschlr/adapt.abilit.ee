@@ -1,0 +1,17 @@
+{
+    "Veracruz, Panama": {
+        "country": "pa",
+        "longitude": -79.62139069572578,
+        "latitude": 8.890995793370458
+    },
+    "Panama City, Panama": {
+        "country": "pa",
+        "longitude": -79.53761627896556,
+        "latitude": 8.954147681760357
+    },
+    "Valle de Anton, Panama": {
+        "country": "pa",
+        "longitude":  -80.12838584447938,
+        "latitude": 8.603993055737451
+    }
+}

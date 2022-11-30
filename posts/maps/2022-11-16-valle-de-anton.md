@@ -1,7 +1,7 @@
 ---
 title:  "Im Krater des Vulkans: El Valle"
 description: "Kurzer Reisebericht zu dem ersten Ziel auf unserer Reise durch Panama nach dem Verlassen der Region um Panama-Stadt"
-location: Valle de Anton, Panama
+location: "Valle de Anton, Panama"
 date:   2022-11-11
 layout: layouts/post.njk
 tags: 

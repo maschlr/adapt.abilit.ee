@@ -3,7 +3,6 @@ title:  Hallo, Welt!
 description: Mein erster Post mit kurzem Hintergrund dieser Seite
 date:   2022-10-20
 layout: layouts/post.njk
-location: Cambutal, Panama
 tags: 
  - random 
  - philosophy
