@@ -49,15 +49,18 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
-p,
-.tmpl-post li,
-img {
-  max-width: 37.5em; /* 600px /16 */
+main, p,
+.tmpl-post li {
+  max-width: 768px; /* 600px /16 */
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
 }
 p,
 .tmpl-post li {
   line-height: 1.45;
 }
+
 
 a[href] {
   color: var(--text-color-link);
@@ -117,6 +120,7 @@ code {
 }
 figure {
   display: table;
+  margin-left: 0;
 }
 figure img {
   display: block;
