@@ -120,7 +120,7 @@ code {
 }
 figure {
   display: table;
-  margin-left: 0
+  margin-left: 0;
 }
 figure img {
   display: block;
