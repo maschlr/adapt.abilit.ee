@@ -14,7 +14,7 @@ async function stravaShortcode(activityId) {
   return `<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="${activityId}"></div><script src="https://strava-embeds.com/embed.js"></script>`
 }
 
-async function imageShortcode(src, alt, sizes, caption=null) {
+async function imageShortcode(src, alt, caption=null) {
   let metadata = await Image(src, {
     widths: [300, 600],
     formats: ["png"],
@@ -134,7 +134,8 @@ module.exports = function(eleventyConfig) {
       },
     },
     ui: false,
-    ghostMode: false
+    ghostMode: false,
+    port: 3000
   });
   
   // elevenly-img

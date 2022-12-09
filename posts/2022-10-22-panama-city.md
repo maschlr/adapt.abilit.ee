@@ -82,14 +82,14 @@ Jeder Fleck wird umgehend besiedelt.
 
 Im alten Zentrum des Casco Viejo hat man sich auf Tourismus eingestellt. Es gibt ein Museum, das über die Geschichte erzählt. In den Straßen sind Bistros und Cafes, die mit schön dekorierten Fruit-Bowls und anderen vegan-glutenfreien Speisen gutsituierte, meist westliche Gäste anlocken. Ich gehe lieber gegenüber in ein Restaurant ohne Schild auf der Straße, das auch die lokalen Taxifahrer für ihre Pausen nutzen.
 
-{% image "./img/panama-city/221020_blick_vom_selina_hostel_rooftop_auf_die_panama_skyline.jpg", "Skyline von Panama-City vom Selina Hostel Rooftop aus", "(min-width: 30em) 50vw, 100vw" %}
+{% image "./img/panama-city/221020_blick_vom_selina_hostel_rooftop_auf_die_panama_skyline.jpg", "Skyline von Panama-City vom Selina Hostel Rooftop aus" %}
 
 Die nächsten zwei Tage verbringen Lorena und ich damit in Panama City anzukommen. Die Eindrücke sind immernoch sehr frisch. Das Casco Viejo hat einen schönen klassichen Kern mit Bauten im Kolonianstil. Vieles wird bzw. wurde renoviert, an anderer Stelle verfallen die Gebäude. Wie auch das Land und der Rest der Stadt scheint das Viertel voller Kontraste zu sein. Beim Anblick der verfallenden Gebäude wird mir schnell klar: wenn in unserer Gesellschaft mehr oder weniger panisch vom Klimawnadel und der Erderwärmung gesprochen wird, hat die Natur damit kein Problem. Die Natur passt sich an und erobert unnachgiebig alles wieder zurück. An tropischen Orten wie Panama wird einem das besonders klar: schon nach kürzester Zeit beginnen weiß gestrichene Mauern zu modern und zu verfallen. Im letzten Riss sprießen Pflanzen, die in kürzester Zeit zu Büschen und Bäumen heranwachsen.
 Jeder Fleck wird umgehend besiedelt.
 
 Im alten Zentrum des Casco Viejo hat man sich auf Tourismus eingestellt. Es gibt ein Museum, das über die Geschichte erzählt. In den Straßen sind Bistros und Cafes, die mit schön dekorierten Fruit-Bowls und anderen vegan-glutenfreien Speisen gutsituierte, meist westliche Gäste anlocken.
 
-{% image "./img/panama-city/221021_almuerzo_con_los_taxistas.jpg", "Desayuno con los Taxistas", "(min-width: 30em) 50vw, 100vw" %}
+{% image "./img/panama-city/221021_almuerzo_con_los_taxistas.jpg", "Desayuno con los Taxistas" %}
 
 Nach unserem Reisetag Mittwoch hatte ich mir den Rest der Woche frei gehalten.
 Nach dem ersten Mal richtig Ausschlafen machte ich vom Hostel aus einen ausgedehnten Lauf. Direkt am Panamkanal entlang ging es auf die Insel ... 

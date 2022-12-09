@@ -8,6 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "11ty: watch templates & rebuild on change",
+            "envFile": "${workspaceFolder}/.env",
             "runtimeExecutable": "npx",
             "runtimeArgs": [
                 "@11ty/eleventy",
