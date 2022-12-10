@@ -23,7 +23,7 @@ async function imageShortcode(src, alt, caption=null) {
 
   let imageAttributes = {
     alt,
-    sizes: "(min-width: 768px) 736px, ((min-width: 30em) and (min-width: 768px)) 50vw, 95vw",
+    sizes: "(min-width: 768px) 736px, ((min-width: 30em) and (max-width: 768px)) 70vw, (max-width: 30em) 95vw",
     loading: "lazy",
     decoding: "async",
   };
