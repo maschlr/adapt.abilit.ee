@@ -124,6 +124,7 @@ figure {
 figure img {
   display: block;
   max-width: 100%;
+  height:auto;
   margin-right: 5px ;
 }
 figcaption {
