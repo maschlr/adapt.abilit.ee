@@ -16,14 +16,13 @@ async function stravaShortcode(activityId) {
 
 async function imageShortcode(src, alt, caption=null) {
   let metadata = await Image(src, {
-    widths: [300, 600],
+    widths: [600],
     formats: ["png"],
     outputDir: "./_site/img/" 
   });
 
   let imageAttributes = {
     alt,
-    sizes: "(min-width: 768px) 736px, ((min-width: 30em) and (max-width: 768px)) 70vw, (max-width: 30em) 95vw",
     loading: "lazy",
     decoding: "async",
   };
