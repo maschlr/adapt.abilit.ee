@@ -5,7 +5,7 @@ location: Cambutal, Panama
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
-  order: 3
+  order: 4
 date: 2022-11-13
 ---
 
