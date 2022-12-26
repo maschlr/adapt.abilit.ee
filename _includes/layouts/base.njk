@@ -17,6 +17,24 @@
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
 
+    {%- if map -%}
+    <!-- mapbox stuff -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.9.2/mapbox-gl.js"></script>
+    <link
+    href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.9.2/mapbox-gl.css"
+    rel="stylesheet"
+    />
+    <style>
+    #map {
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 80vh;
+    }
+    </style>
+    {%- endif -%}
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-YMY94H0QH7"></script>
     <script>
