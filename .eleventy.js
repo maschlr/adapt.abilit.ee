@@ -46,10 +46,13 @@ module.exports = function(eleventyConfig) {
   // we don't need this since we're writing the compiled images directly into the output dir
   // eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("js/*.js");
+
 
   eleventyConfig.addPassthroughCopy({
     "node_modules/lite-youtube-embed/src/lite-yt-embed.js": `js/lite-yt-embed.js`,
-    "node_modules/lite-youtube-embed/src/lite-yt-embed.css": "css/lite-yt-embed.css"
+    "node_modules/lite-youtube-embed/src/lite-yt-embed.css": "css/lite-yt-embed.css",
+ 
   })
 
   // Copy CNAME to keep domain on re-deploy
