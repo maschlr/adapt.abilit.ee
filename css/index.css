@@ -49,6 +49,11 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
+
+main.tmpl-overview {
+  max-width: 100%;
+}
+
 main, p, figure,
 .tmpl-post li {
   max-width: 768px; /* 600px /16 */
