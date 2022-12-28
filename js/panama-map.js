@@ -45,7 +45,7 @@ function getGeoJsonObject(locations) {
     type: 'geojson',
     data: {
       type: 'FeatureCollection',
-      features: locations.map((location) => {
+      features: locations.map((location, id) => {
         return {
           type: 'Feature',
           geometry: {
@@ -65,6 +65,7 @@ function getGeoJsonObject(locations) {
                 .join('') +
               '</ul>',
           },
+          id
         }
       }),
     },
@@ -74,7 +75,7 @@ function getGeoJsonObject(locations) {
 function initMap(locations) {
   mapboxgl.accessToken =
     'pk.eyJ1IjoibXNjaGx1ZXQiLCJhIjoiY2xjNTU4aTl2MmtxcjNucGp6YXY2dWRycSJ9.ZC7LhDQ4dntF3sQD_iZc3g'
-
+  let hoveredStateId = null
   const lngLatArray = locations.map(
     ({ longitude, latitude }) => new mapboxgl.LngLat(longitude, latitude),
   )
@@ -86,15 +87,27 @@ function initMap(locations) {
     bounds,
   })
 
-  const markers = lngLatArray.map((location) =>
-    new mapboxgl.Marker({ color: '#000000' }).setLngLat(location).addTo(map),
-  )
-
   map.on('load', () => {
     map.addSource('locations', getGeoJsonObject(locations))
 
     map.addLayer({
-      id: 'locations',
+      id: 'locations-marker',
+      type: 'circle',
+      source: 'locations',
+      paint: {
+        'circle-stroke-color': '#000',
+        'circle-stroke-width': 1,
+        'circle-color': [
+          'case',
+          ['boolean', ['feature-state', 'hover'], false],
+          '#90ee90', // lightgreen when hover
+          '#228b22', // darkgreen normal
+        ],
+      },
+    })
+
+    map.addLayer({
+      id: 'locations-text',
       type: 'symbol',
       source: 'locations',
       layout: {
@@ -121,5 +134,32 @@ function initMap(locations) {
       .setLngLat(feature.geometry.coordinates)
       .setHTML(feature.properties.posts)
       .addTo(map)
+  })
+
+  // When the user moves their mouse over the locations-marker layer, we'll update the
+  // feature state for the feature under the mouse.
+  const setHover = (hover) => map.setFeatureState(
+        { source: 'locations', id: hoveredStateId },
+        { hover },
+      )
+  map.on('mousemove', 'locations-marker', (e) => {
+    map.getCanvas().style.cursor = 'pointer';
+    if (e.features.length > 0) {
+      if (hoveredStateId !== null) {
+        setHover(false)
+      }
+      hoveredStateId = e.features[0].id
+      setHover(true)
+    }
+  })
+
+  // When the mouse leaves the locations-marker layer, update the feature state of the
+  // previously hovered feature.
+  map.on('mouseleave', 'locations-marker', () => {
+    if (hoveredStateId !== null) {
+      setHover(false)
+    }
+    hoveredStateId = null
+    map.getCanvas().style.cursor = '';
   })
 }
