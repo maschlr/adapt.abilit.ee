@@ -29,7 +29,7 @@ function getBounds(arrayOfLngLat) {
   }
 
   // enlarge bounds by x in each direction
-  const zoomRatio = 0.5
+  const zoomRatio = 0.4
   const dEastWest = east - west
   const dNorthSouth = north - south
   east = east + dEastWest * zoomRatio
@@ -123,7 +123,7 @@ function initMap(locations) {
 
   map.on('click', (event) => {
     const features = map.queryRenderedFeatures(event.point, {
-      layers: ['locations'],
+      layers: ['locations-marker'],
     })
     if (!features.length) {
       return
